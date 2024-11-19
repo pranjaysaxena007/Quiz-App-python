@@ -1,0 +1,140 @@
+What does AI stand for?
+A) Artificial Integration
+B) Automated Intelligence
+C) Artificial Intelligence
+D) Advanced Intelligence
+Answer: C
+
+Which of the following is NOT a type of machine learning?
+A) Supervised learning
+B) Unsupervised learning
+C) Reinforcement learning
+D) Integrated learning
+Answer: D
+
+Who is considered the father of Artificial Intelligence?
+A) Alan Turing
+B) Elon Musk
+C) John McCarthy
+D) Marvin Minsky
+Answer: C
+
+Which term refers to the ability of an AI to mimic human thought processes?
+A) Machine learning
+B) Cognitive computing
+C) Neural networks
+D) Natural language processing
+Answer: B
+
+What is the main goal of supervised learning?
+A) To find hidden patterns in data
+B) To classify labeled data
+C) To reinforce positive behavior
+D) To predict future trends based on time series
+Answer: B
+
+What is the process of training a model using labeled data called?
+A) Reinforcement learning
+B) Clustering
+C) Supervised learning
+D) Dimensionality reduction
+Answer: C
+
+Which algorithm is widely used in AI to find optimal solutions by simulating natural evolution?
+A) Genetic Algorithm
+B) Decision Trees
+C) Neural Networks
+D) Bayesian Networks
+Answer: A
+
+Which of the following is an example of a classification algorithm?
+A) K-means
+B) Linear Regression
+C) Decision Tree
+D) Principal Component Analysis
+Answer: C
+
+What is the term used for the ability of an AI system to understand and process human language?
+A) Cognitive Computing
+B) Neural Networks
+C) Natural Language Processing
+D) Machine Learning
+Answer: C
+
+Which of the following is a measure of how well a machine learning model generalizes to unseen data?
+A) Accuracy
+B) Overfitting
+C) Precision
+D) Generalization
+Answer: D
+
+Which type of AI is specifically designed to perform one task?
+A) Narrow AI
+B) General AI
+C) Super AI
+D) Autonomous AI
+Answer: A
+
+In Reinforcement Learning, what does the agent try to maximize?
+A) Error
+B) Loss
+C) Reward
+D) Uncertainty
+Answer: C
+
+Which algorithm is used to reduce the dimensionality of large datasets?
+A) Linear Regression
+B) K-Nearest Neighbors
+C) Principal Component Analysis
+D) Random Forest
+Answer: C
+
+What is a neural network composed of?
+A) Neurons
+B) Trees
+C) Graphs
+D) Layers
+Answer: D
+
+What is overfitting in machine learning?
+A) When the model performs poorly on training data
+B) When the model generalizes well on unseen data
+C) When the model memorizes training data
+D) When the model ignores the training data
+Answer: C
+
+Which AI technique allows the model to learn from past actions and decisions?
+A) Unsupervised Learning
+B) Supervised Learning
+C) Reinforcement Learning
+D) Transfer Learning
+Answer: C
+
+What is the full form of NLP in AI?
+A) Neural Learning Process
+B) Natural Learning Processing
+C) Neural Language Programming
+D) Natural Language Processing
+Answer: D
+
+Which of the following is NOT a type of neural network?
+A) Recurrent Neural Networks
+B) Convolutional Neural Networks
+C) Generative Adversarial Networks
+D) Gradient Boosting Networks
+Answer: D
+
+Which of these is commonly used to handle missing data in machine learning models?
+A) Drop the missing data
+B) Use default value
+C) Impute missing values
+D) All of the above
+Answer: D
+
+Which is a common evaluation metric for classification problems?
+A) Precision
+B) Mean Squared Error
+C) Gradient Descent
+D) Variance
+Answer: A
+

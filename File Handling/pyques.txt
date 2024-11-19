@@ -1,0 +1,141 @@
+What is the correct file extension for Python files?
+A) .pt
+B) .py
+C) .pyt
+D) .python
+Answer: B
+
+Which of the following is a valid Python variable name?
+A) 2myvar
+B) my-var
+C) my_var
+D) my var
+Answer: C
+
+Which function is used to output text to the screen in Python?
+A) display()
+B) print()
+C) echo()
+D) printf()
+Answer: B
+
+How do you start a comment in Python?
+A) //
+B) #
+C) <!--
+D) /*
+Answer: B
+
+Which collection type is ordered and changeable?
+A) Tuple
+B) Set
+C) Dictionary
+D) List
+Answer: D
+
+Which operator is used for exponentiation (power) in Python?
+A) ^
+B) **
+C) //
+D) %
+Answer: B
+
+Which keyword is used to create a function in Python?
+A) define
+B) function
+C) def
+D) fun
+Answer: C
+
+What will `len([1, 2, 3])` return?
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: C
+
+What data type is the object below?
+`x = {'name': 'John', 'age': 25}`
+A) Dictionary
+B) List
+C) Tuple
+D) Set
+Answer: A
+
+What is the output of `2 + 3 * 4`?
+A) 20
+B) 14
+C) 24
+D) 18
+Answer: B
+
+How do you insert an element at the end of a list?
+A) insert()
+B) append()
+C) extend()
+D) add()
+Answer: B
+
+Which of the following is used to define a block of code in Python?
+A) Parentheses
+B) Curly braces
+C) Indentation
+D) Quotation marks
+Answer: C
+
+How do you create a dictionary?
+A) d = {}
+B) d = []
+C) d = ()
+D) d = set()
+Answer: A
+
+What is the result of `10 // 3` in Python?
+A) 3.33
+B) 3
+C) 10
+D) 1
+Answer: B
+
+How do you check the type of a variable in Python?
+A) checktype()
+B) type()
+C) isinstance()
+D) typeof()
+Answer: B
+
+What will be the output of `bool([])`?
+A) True
+B) False
+C) None
+D) Error
+Answer: B
+
+What is the correct way to import a module in Python?
+A) import module
+B) import(module)
+C) include module
+D) using module
+Answer: A
+
+Which of the following will raise an error?
+A) x = 1/0
+B) x = int('10')
+C) x = '2' + '3'
+D) x = float('10.5')
+Answer: A
+
+Which of the following is NOT a keyword in Python?
+A) lambda
+B) pass
+C) eval
+D) assert
+Answer: C
+
+What does `list(range(5))` return?
+A) [1, 2, 3, 4, 5]
+B) [0, 1, 2, 3, 4, 5]
+C) [0, 1, 2, 3, 4]
+D) [1, 2, 3, 4]
+Answer: C
+

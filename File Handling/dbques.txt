@@ -1,0 +1,140 @@
+What does SQL stand for?
+A) Structured Query Language
+B) Standard Query Language
+C) Simple Query Language
+D) Sequential Query Language
+Answer: A
+
+Which of the following is NOT a type of database model?
+A) Hierarchical
+B) Relational
+C) Network
+D) Cloud
+Answer: D
+
+What type of key is used to uniquely identify a record in a table?
+A) Foreign Key
+B) Candidate Key
+C) Primary Key
+D) Composite Key
+Answer: C
+
+Which command is used to retrieve data from a database?
+A) SELECT
+B) INSERT
+C) UPDATE
+D) DELETE
+Answer: A
+
+Which SQL keyword is used to sort the result-set?
+A) SORT BY
+B) ORDER BY
+C) GROUP BY
+D) SORT
+Answer: B
+
+Which SQL statement is used to delete data from a database?
+A) REMOVE
+B) DELETE
+C) ERASE
+D) DROP
+Answer: B
+
+What is a foreign key?
+A) A key that uniquely identifies a record
+B) A key that links two tables
+C) A key that enforces referential integrity
+D) Both B and C
+Answer: D
+
+Which of the following is a NoSQL database?
+A) MySQL
+B) PostgreSQL
+C) MongoDB
+D) Oracle
+Answer: C
+
+Which command is used to add new rows to a table?
+A) INSERT INTO
+B) ADD ROW
+C) ADD TO
+D) INSERT ROW
+Answer: A
+
+What is normalization in databases?
+A) Increasing data redundancy
+B) Minimizing data redundancy
+C) Increasing database size
+D) Optimizing query performance
+Answer: B
+
+Which of the following is a DDL (Data Definition Language) command?
+A) INSERT
+B) UPDATE
+C) ALTER
+D) SELECT
+Answer: C
+
+Which of the following is an aggregate function in SQL?
+A) COUNT()
+B) LENGTH()
+C) LEFT()
+D) CONVERT()
+Answer: A
+
+What is a view in SQL?
+A) A stored procedure
+B) A virtual table based on the result of a SELECT query
+C) A real table storing data
+D) A key in a database
+Answer: B
+
+Which of the following constraints ensures that a column cannot have a NULL value?
+A) PRIMARY KEY
+B) UNIQUE
+C) NOT NULL
+D) FOREIGN KEY
+Answer: C
+
+Which command is used to change the structure of an existing table?
+A) MODIFY
+B) CHANGE
+C) ALTER
+D) UPDATE
+Answer: C
+
+Which SQL clause is used to group rows with the same values into summary rows?
+A) GROUP BY
+B) ORDER BY
+C) HAVING
+D) SUM
+Answer: A
+
+In which normal form is a table when it has no transitive dependencies?
+A) First Normal Form (1NF)
+B) Second Normal Form (2NF)
+C) Third Normal Form (3NF)
+D) Boyce-Codd Normal Form (BCNF)
+Answer: C
+
+Which of the following SQL statements is used to update existing data in a table?
+A) UPDATE
+B) INSERT
+C) MODIFY
+D) CHANGE
+Answer: A
+
+Which of the following refers to a column in one table that points to the primary key in another table?
+A) Foreign Key
+B) Primary Key
+C) Unique Key
+D) Composite Key
+Answer: A
+
+Which SQL function is used to return the smallest value from a set of values?
+A) MAX()
+B) MIN()
+C) LEAST()
+D) LOW()
+Answer: B
+
